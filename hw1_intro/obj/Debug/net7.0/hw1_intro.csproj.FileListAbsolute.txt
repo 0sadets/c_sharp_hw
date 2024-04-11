@@ -1,0 +1,14 @@
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\bin\Debug\net7.0\hw1_intro.exe
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\bin\Debug\net7.0\hw1_intro.deps.json
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\bin\Debug\net7.0\hw1_intro.runtimeconfig.json
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\bin\Debug\net7.0\hw1_intro.dll
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\bin\Debug\net7.0\hw1_intro.pdb
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\obj\Debug\net7.0\hw1_intro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\obj\Debug\net7.0\hw1_intro.AssemblyInfoInputs.cache
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\obj\Debug\net7.0\hw1_intro.AssemblyInfo.cs
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\obj\Debug\net7.0\hw1_intro.csproj.CoreCompileInputs.cache
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\obj\Debug\net7.0\hw1_intro.dll
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\obj\Debug\net7.0\refint\hw1_intro.dll
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\obj\Debug\net7.0\hw1_intro.pdb
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\obj\Debug\net7.0\hw1_intro.genruntimeconfig.cache
+D:\Step\c_sharp\c_sharp_hw\hw1_intro\obj\Debug\net7.0\ref\hw1_intro.dll
