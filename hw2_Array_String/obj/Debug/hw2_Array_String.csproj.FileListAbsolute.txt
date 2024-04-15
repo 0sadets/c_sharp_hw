@@ -1,0 +1,7 @@
+D:\Step\c_sharp\c_sharp_hw\hw2_Array_String\obj\Debug\hw2_Array_String.csproj.AssemblyReference.cache
+D:\Step\c_sharp\c_sharp_hw\hw2_Array_String\obj\Debug\hw2_Array_String.csproj.CoreCompileInputs.cache
+D:\Step\c_sharp\c_sharp_hw\hw2_Array_String\bin\Debug\hw2_Array_String.exe.config
+D:\Step\c_sharp\c_sharp_hw\hw2_Array_String\bin\Debug\hw2_Array_String.exe
+D:\Step\c_sharp\c_sharp_hw\hw2_Array_String\bin\Debug\hw2_Array_String.pdb
+D:\Step\c_sharp\c_sharp_hw\hw2_Array_String\obj\Debug\hw2_Array_String.exe
+D:\Step\c_sharp\c_sharp_hw\hw2_Array_String\obj\Debug\hw2_Array_String.pdb
