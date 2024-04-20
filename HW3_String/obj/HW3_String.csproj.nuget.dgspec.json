@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Step\\c_sharp\\c_sharp_hw\\HW3_String\\HW3_String.csproj": {}
+    "D:\\Step\\c_sharp\\c_sharp_hw\\hw3_String\\HW3_String.csproj": {}
   },
   "projects": {
-    "D:\\Step\\c_sharp\\c_sharp_hw\\HW3_String\\HW3_String.csproj": {
+    "D:\\Step\\c_sharp\\c_sharp_hw\\hw3_String\\HW3_String.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Step\\c_sharp\\c_sharp_hw\\HW3_String\\HW3_String.csproj",
+        "projectUniqueName": "D:\\Step\\c_sharp\\c_sharp_hw\\hw3_String\\HW3_String.csproj",
         "projectName": "HW3_String",
-        "projectPath": "D:\\Step\\c_sharp\\c_sharp_hw\\HW3_String\\HW3_String.csproj",
+        "projectPath": "D:\\Step\\c_sharp\\c_sharp_hw\\hw3_String\\HW3_String.csproj",
         "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
-        "outputPath": "D:\\Step\\c_sharp\\c_sharp_hw\\HW3_String\\obj\\",
+        "outputPath": "D:\\Step\\c_sharp\\c_sharp_hw\\hw3_String\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
