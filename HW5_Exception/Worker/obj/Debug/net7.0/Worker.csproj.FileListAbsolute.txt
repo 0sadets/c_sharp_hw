@@ -1,0 +1,14 @@
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\bin\Debug\net7.0\Worker.exe
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\bin\Debug\net7.0\Worker.deps.json
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\bin\Debug\net7.0\Worker.runtimeconfig.json
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\bin\Debug\net7.0\Worker.dll
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\bin\Debug\net7.0\Worker.pdb
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\obj\Debug\net7.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\obj\Debug\net7.0\Worker.AssemblyInfoInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\obj\Debug\net7.0\Worker.AssemblyInfo.cs
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\obj\Debug\net7.0\Worker.csproj.CoreCompileInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\obj\Debug\net7.0\Worker.dll
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\obj\Debug\net7.0\refint\Worker.dll
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\obj\Debug\net7.0\Worker.pdb
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\obj\Debug\net7.0\Worker.genruntimeconfig.cache
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\Worker\obj\Debug\net7.0\ref\Worker.dll

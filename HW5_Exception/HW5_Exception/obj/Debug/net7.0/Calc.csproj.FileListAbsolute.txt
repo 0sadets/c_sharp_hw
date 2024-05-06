@@ -1,0 +1,14 @@
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\bin\Debug\net7.0\Calc.exe
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\bin\Debug\net7.0\Calc.deps.json
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\bin\Debug\net7.0\Calc.runtimeconfig.json
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\bin\Debug\net7.0\Calc.dll
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\bin\Debug\net7.0\Calc.pdb
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\obj\Debug\net7.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\obj\Debug\net7.0\Calc.AssemblyInfoInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\obj\Debug\net7.0\Calc.AssemblyInfo.cs
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\obj\Debug\net7.0\Calc.csproj.CoreCompileInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\obj\Debug\net7.0\Calc.dll
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\obj\Debug\net7.0\refint\Calc.dll
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\obj\Debug\net7.0\Calc.pdb
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\obj\Debug\net7.0\Calc.genruntimeconfig.cache
+D:\Step\c_sharp\c_sharp_hw\HW5_Exception\HW5_Exception\obj\Debug\net7.0\ref\Calc.dll
