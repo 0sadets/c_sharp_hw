@@ -1,0 +1,6 @@
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\5. C#\05 Exceptions\c_sharp_exceptions\c_sharp_exceptions\11_exceptions\bin\Debug\11_exceptions.exe.config
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\5. C#\05 Exceptions\c_sharp_exceptions\c_sharp_exceptions\11_exceptions\bin\Debug\11_exceptions.exe
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\5. C#\05 Exceptions\c_sharp_exceptions\c_sharp_exceptions\11_exceptions\bin\Debug\11_exceptions.pdb
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\5. C#\05 Exceptions\c_sharp_exceptions\c_sharp_exceptions\11_exceptions\obj\Debug\11_exceptions.csproj.CoreCompileInputs.cache
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\5. C#\05 Exceptions\c_sharp_exceptions\c_sharp_exceptions\11_exceptions\obj\Debug\11_exceptions.exe
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\5. C#\05 Exceptions\c_sharp_exceptions\c_sharp_exceptions\11_exceptions\obj\Debug\11_exceptions.pdb

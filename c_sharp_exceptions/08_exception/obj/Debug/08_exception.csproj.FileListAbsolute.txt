@@ -1,0 +1,6 @@
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\5. C#\05 Exceptions\c_sharp_exceptions\c_sharp_exceptions\08_exception\bin\Debug\08_exception.exe.config
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\5. C#\05 Exceptions\c_sharp_exceptions\c_sharp_exceptions\08_exception\bin\Debug\08_exception.exe
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\5. C#\05 Exceptions\c_sharp_exceptions\c_sharp_exceptions\08_exception\bin\Debug\08_exception.pdb
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\5. C#\05 Exceptions\c_sharp_exceptions\c_sharp_exceptions\08_exception\obj\Debug\08_exception.csproj.CoreCompileInputs.cache
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\5. C#\05 Exceptions\c_sharp_exceptions\c_sharp_exceptions\08_exception\obj\Debug\08_exception.exe
+C:\Users\ТимощукВладиславВале\Dropbox\Work\Step\3. Full-Time\5. C#\05 Exceptions\c_sharp_exceptions\c_sharp_exceptions\08_exception\obj\Debug\08_exception.pdb
