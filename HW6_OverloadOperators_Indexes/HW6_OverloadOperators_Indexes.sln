@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW6_OverloadOperators_Indexes", "HW6_OverloadOperators_Indexes\HW6_OverloadOperators_Indexes.csproj", "{89951325-FFAB-49BD-92C8-FE8C49EC21D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89951325-FFAB-49BD-92C8-FE8C49EC21D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89951325-FFAB-49BD-92C8-FE8C49EC21D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89951325-FFAB-49BD-92C8-FE8C49EC21D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89951325-FFAB-49BD-92C8-FE8C49EC21D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AB66241-06E4-448D-A70B-AEB7D8041D1E}
+	EndGlobalSection
+EndGlobal
