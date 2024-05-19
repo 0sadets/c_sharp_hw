@@ -1,0 +1,14 @@
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\bin\Debug\net7.0\Indexes.exe
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\bin\Debug\net7.0\Indexes.deps.json
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\bin\Debug\net7.0\Indexes.runtimeconfig.json
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\bin\Debug\net7.0\Indexes.dll
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\bin\Debug\net7.0\Indexes.pdb
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\obj\Debug\net7.0\Indexes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\obj\Debug\net7.0\Indexes.AssemblyInfoInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\obj\Debug\net7.0\Indexes.AssemblyInfo.cs
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\obj\Debug\net7.0\Indexes.csproj.CoreCompileInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\obj\Debug\net7.0\Indexes.dll
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\obj\Debug\net7.0\refint\Indexes.dll
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\obj\Debug\net7.0\Indexes.pdb
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\obj\Debug\net7.0\Indexes.genruntimeconfig.cache
+D:\Step\c_sharp\c_sharp_hw\HW6_OverloadOperators_Indexes\Indexes\obj\Debug\net7.0\ref\Indexes.dll

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW6_OverloadOperators_Indexes", "HW6_OverloadOperators_Indexes\HW6_OverloadOperators_Indexes.csproj", "{89951325-FFAB-49BD-92C8-FE8C49EC21D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW6_OverloadOperators_Indexes", "HW6_OverloadOperators_Indexes\HW6_OverloadOperators_Indexes.csproj", "{89951325-FFAB-49BD-92C8-FE8C49EC21D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexes", "Indexes\Indexes.csproj", "{9631EDDD-F240-4FAE-82DB-A7B3480DC58C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{89951325-FFAB-49BD-92C8-FE8C49EC21D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89951325-FFAB-49BD-92C8-FE8C49EC21D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89951325-FFAB-49BD-92C8-FE8C49EC21D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9631EDDD-F240-4FAE-82DB-A7B3480DC58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9631EDDD-F240-4FAE-82DB-A7B3480DC58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9631EDDD-F240-4FAE-82DB-A7B3480DC58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9631EDDD-F240-4FAE-82DB-A7B3480DC58C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
