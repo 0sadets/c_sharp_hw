@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.csproj", "{9B5508AA-6E84-4102-9267-92F3D1D5476B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo\Zoo.csproj", "{09BEDEF9-BC85-4DFE-9924-71222754A058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B5508AA-6E84-4102-9267-92F3D1D5476B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5508AA-6E84-4102-9267-92F3D1D5476B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5508AA-6E84-4102-9267-92F3D1D5476B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5508AA-6E84-4102-9267-92F3D1D5476B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BEDEF9-BC85-4DFE-9924-71222754A058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BEDEF9-BC85-4DFE-9924-71222754A058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BEDEF9-BC85-4DFE-9924-71222754A058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BEDEF9-BC85-4DFE-9924-71222754A058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {279C88F3-F1E4-43EA-9850-99AC9605F06B}
+	EndGlobalSection
+EndGlobal

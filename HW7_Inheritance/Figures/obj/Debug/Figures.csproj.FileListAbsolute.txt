@@ -1,0 +1,7 @@
+D:\Step\system programming\hw\HW7_Inheritance\Figures\bin\Debug\Figures.exe.config
+D:\Step\system programming\hw\HW7_Inheritance\Figures\bin\Debug\Figures.exe
+D:\Step\system programming\hw\HW7_Inheritance\Figures\bin\Debug\Figures.pdb
+D:\Step\system programming\hw\HW7_Inheritance\Figures\obj\Debug\Figures.csproj.AssemblyReference.cache
+D:\Step\system programming\hw\HW7_Inheritance\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\Step\system programming\hw\HW7_Inheritance\Figures\obj\Debug\Figures.exe
+D:\Step\system programming\hw\HW7_Inheritance\Figures\obj\Debug\Figures.pdb
