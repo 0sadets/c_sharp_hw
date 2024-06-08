@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HW8_Standart_Interface/1.0.0": {
+        "runtime": {
+          "HW8_Standart_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW8_Standart_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

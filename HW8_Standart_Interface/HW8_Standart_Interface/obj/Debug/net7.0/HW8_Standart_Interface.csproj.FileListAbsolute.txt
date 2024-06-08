@@ -1,0 +1,14 @@
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\bin\Debug\net7.0\HW8_Standart_Interface.exe
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\bin\Debug\net7.0\HW8_Standart_Interface.deps.json
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\bin\Debug\net7.0\HW8_Standart_Interface.runtimeconfig.json
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\bin\Debug\net7.0\HW8_Standart_Interface.dll
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\bin\Debug\net7.0\HW8_Standart_Interface.pdb
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\obj\Debug\net7.0\HW8_Standart_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\obj\Debug\net7.0\HW8_Standart_Interface.AssemblyInfoInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\obj\Debug\net7.0\HW8_Standart_Interface.AssemblyInfo.cs
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\obj\Debug\net7.0\HW8_Standart_Interface.csproj.CoreCompileInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\obj\Debug\net7.0\HW8_Standart_Interface.dll
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\obj\Debug\net7.0\refint\HW8_Standart_Interface.dll
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\obj\Debug\net7.0\HW8_Standart_Interface.pdb
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\obj\Debug\net7.0\HW8_Standart_Interface.genruntimeconfig.cache
+D:\Step\c_sharp\c_sharp_hw\HW8_Standart_Interface\HW8_Standart_Interface\obj\Debug\net7.0\ref\HW8_Standart_Interface.dll
