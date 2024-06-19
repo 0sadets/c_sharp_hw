@@ -1,0 +1,14 @@
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\bin\Debug\net7.0\Delegates.exe
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\bin\Debug\net7.0\Delegates.deps.json
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\bin\Debug\net7.0\Delegates.runtimeconfig.json
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\bin\Debug\net7.0\Delegates.dll
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\bin\Debug\net7.0\Delegates.pdb
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\obj\Debug\net7.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfoInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfo.cs
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\obj\Debug\net7.0\Delegates.csproj.CoreCompileInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\obj\Debug\net7.0\Delegates.dll
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\obj\Debug\net7.0\refint\Delegates.dll
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\obj\Debug\net7.0\Delegates.pdb
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\obj\Debug\net7.0\Delegates.genruntimeconfig.cache
+D:\Step\c_sharp\c_sharp_hw\HW9_Delegates_Extensions\Delegates\obj\Debug\net7.0\ref\Delegates.dll
