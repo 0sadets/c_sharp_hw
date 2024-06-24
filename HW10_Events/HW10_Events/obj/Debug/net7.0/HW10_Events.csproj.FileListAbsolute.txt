@@ -1,0 +1,14 @@
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\bin\Debug\net7.0\HW10_Events.exe
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\bin\Debug\net7.0\HW10_Events.deps.json
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\bin\Debug\net7.0\HW10_Events.runtimeconfig.json
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\bin\Debug\net7.0\HW10_Events.dll
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\bin\Debug\net7.0\HW10_Events.pdb
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\obj\Debug\net7.0\HW10_Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\obj\Debug\net7.0\HW10_Events.AssemblyInfoInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\obj\Debug\net7.0\HW10_Events.AssemblyInfo.cs
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\obj\Debug\net7.0\HW10_Events.csproj.CoreCompileInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\obj\Debug\net7.0\HW10_Events.dll
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\obj\Debug\net7.0\refint\HW10_Events.dll
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\obj\Debug\net7.0\HW10_Events.pdb
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\obj\Debug\net7.0\HW10_Events.genruntimeconfig.cache
+D:\Step\c_sharp\c_sharp_hw\HW10_Events\HW10_Events\obj\Debug\net7.0\ref\HW10_Events.dll
