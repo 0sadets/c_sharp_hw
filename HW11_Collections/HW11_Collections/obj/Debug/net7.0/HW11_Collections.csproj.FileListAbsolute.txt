@@ -1,0 +1,14 @@
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\bin\Debug\net7.0\HW11_Collections.exe
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\bin\Debug\net7.0\HW11_Collections.deps.json
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\bin\Debug\net7.0\HW11_Collections.runtimeconfig.json
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\bin\Debug\net7.0\HW11_Collections.dll
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\bin\Debug\net7.0\HW11_Collections.pdb
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\obj\Debug\net7.0\HW11_Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\obj\Debug\net7.0\HW11_Collections.AssemblyInfoInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\obj\Debug\net7.0\HW11_Collections.AssemblyInfo.cs
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\obj\Debug\net7.0\HW11_Collections.csproj.CoreCompileInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\obj\Debug\net7.0\HW11_Collections.dll
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\obj\Debug\net7.0\refint\HW11_Collections.dll
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\obj\Debug\net7.0\HW11_Collections.pdb
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\obj\Debug\net7.0\HW11_Collections.genruntimeconfig.cache
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\HW11_Collections\obj\Debug\net7.0\ref\HW11_Collections.dll

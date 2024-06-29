@@ -1,0 +1,14 @@
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\bin\Debug\net7.0\Statistic.exe
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\bin\Debug\net7.0\Statistic.deps.json
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\bin\Debug\net7.0\Statistic.runtimeconfig.json
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\bin\Debug\net7.0\Statistic.dll
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\bin\Debug\net7.0\Statistic.pdb
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\obj\Debug\net7.0\Statistic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\obj\Debug\net7.0\Statistic.AssemblyInfoInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\obj\Debug\net7.0\Statistic.AssemblyInfo.cs
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\obj\Debug\net7.0\Statistic.csproj.CoreCompileInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\obj\Debug\net7.0\Statistic.dll
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\obj\Debug\net7.0\refint\Statistic.dll
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\obj\Debug\net7.0\Statistic.pdb
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\obj\Debug\net7.0\Statistic.genruntimeconfig.cache
+D:\Step\c_sharp\c_sharp_hw\HW11_Collections\Statistic\obj\Debug\net7.0\ref\Statistic.dll
