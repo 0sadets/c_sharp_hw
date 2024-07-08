@@ -1,0 +1,14 @@
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\bin\Debug\net7.0\HW12_File_Streams.exe
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\bin\Debug\net7.0\HW12_File_Streams.deps.json
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\bin\Debug\net7.0\HW12_File_Streams.runtimeconfig.json
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\bin\Debug\net7.0\HW12_File_Streams.dll
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\bin\Debug\net7.0\HW12_File_Streams.pdb
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\obj\Debug\net7.0\HW12_File_Streams.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\obj\Debug\net7.0\HW12_File_Streams.AssemblyInfoInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\obj\Debug\net7.0\HW12_File_Streams.AssemblyInfo.cs
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\obj\Debug\net7.0\HW12_File_Streams.csproj.CoreCompileInputs.cache
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\obj\Debug\net7.0\HW12_File_Streams.dll
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\obj\Debug\net7.0\refint\HW12_File_Streams.dll
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\obj\Debug\net7.0\HW12_File_Streams.pdb
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\obj\Debug\net7.0\HW12_File_Streams.genruntimeconfig.cache
+D:\Step\c_sharp\c_sharp_hw\HW12_File_Streams\obj\Debug\net7.0\ref\HW12_File_Streams.dll
